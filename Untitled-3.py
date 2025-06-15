@@ -1,5 +1,6 @@
 persona = {}
 print("hola")
+print("jsdsfsdf")
 # Solicitar y agregar datos al diccionario
 persona['Nombre'] = input("Introduce tu nombre: ")
 print(persona)
